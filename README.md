@@ -26,8 +26,8 @@
 ## 📫 Connect With Me
 
 Portfolio: https://sadaf-ansari-portfolio.lovable.app/
-
-Email: your-email@example.com
+LinkedIn: www.linkedin.com/in/sadaf-ansari-71bb6b252
+Email: sadafansari3005@gmail.com
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Sadaf3005&label=Profile+Views&color=blueviolet&style=for-the-badge" />
