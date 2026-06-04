@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Sadaf;B.Tech+CSE+(AI+%26+ML)+Student;Python+Developer;AI+and+NLP+Enthusiast;Data+Analytics+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Sadaf+Ansari;B.Tech+CSE+(AI+%26+ML)+Student;Python+Developer;AI+and+NLP+Enthusiast;Data+Analytics+Learner" />
 </p>
 
 🎓 B.Tech Computer Science and Engineering Student (AI & ML)
@@ -27,6 +27,10 @@
 <img src="https://komarev.com/ghpvc/?username=Sadaf3005&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Sadaf3005?label=Followers&style=for-the-badge" />
+</p>
+
 ## 📌 Featured Projects
 
 - 🩺 Breast Cancer Detection
@@ -36,4 +40,4 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sahar3005&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sadaf3005&theme=tokyonight)
