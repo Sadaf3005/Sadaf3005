@@ -1,16 +1,34 @@
-## Hi there 👋
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Sadaf;B.Tech+CSE+(AI+%26+ML)+Student;Python+Developer;AI+and+NLP+Enthusiast;Data+Analytics+Learner" />
+</p>
 
-<!--
-**Sadaf3005/Sadaf3005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Sadaf
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE (AI & ML)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Python, AI, NLP and Data Analytics
+
+🚀 Building real-world projects and improving problem-solving skills
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,mysql" />
+</p>
+
+## 📌 Featured Projects
+
+- 🩺 Breast Cancer Detection
+- 🤖 AI Chatbot using Tkinter
+- 🚦 Traffic Analysis Project
+- 🚗 Smart Traffic System
+
+## 📫 Connect With Me
+
+Portfolio: https://sadaf-ansari-portfolio.lovable.app/
+
+Email: your-email@example.com
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Sadaf3005&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+</p>
