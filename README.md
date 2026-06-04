@@ -40,4 +40,8 @@
 
 ## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadaf3005&show_icons=true&theme=tokyonight)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sadaf3005&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadaf3005&layout=compact&theme=tokyonight)
