@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-* 🎓 Pursuing B.Tech in Computer Science and Engineering(AI and ML)
+* 🎓 compeleted B.Tech in Computer Science and Engineering(AI and ML)
 * 💻 Skilled in Python, SQL, HTML, CSS, Git & GitHub
 * 📊 Learning Data Analytics and Power BI
 * 🤖 Interested in AI, Machine Learning
